@@ -11,7 +11,7 @@ Clone the project:
 
 bash
 Copy code
-git clone https://github.com/yourusername/flightPassangers.git
+git clone 
 Open the project in your C# development environment.
 
 Run the project to see flight costs calculated for each passenger.
